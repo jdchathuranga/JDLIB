@@ -16,4 +16,4 @@ build-libidn.sh
 
 this script can build iOS fat static lib for libidn, you can enable or disable architecures in line number 37, ARCHS="i386 x86_64 armv7 armv7s arm64"
 
-this build script is working with iOS7 sdk and iPhone 5C's arm64 architecture.
+this build script is working with iOS7 sdk and iPhone 5S's arm64 architecture.
