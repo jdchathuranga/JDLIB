@@ -21,3 +21,7 @@ this build script is working with iOS7 sdk and iPhone 5S's arm64 architecture.
 OPENSSL build script
 ====================
 Added openssl build script originally found at https://github.com/x2on/OpenSSL-for-iPhone (all credits should go to him) and removed i386 and i386_64, this library only builds for devices not for any simulators, if simulator support is compulsory use original script to build.
+
+
+USPPORTED VERSIONS
+==================
